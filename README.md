@@ -17,9 +17,9 @@
 💡 **What I enjoy** — Turning Figma designs into pixel-perfect interfaces, exploring new front-end tools, and solving real problems through clean code.
 <!-- 👉 Add a personal interest/hobby here if you'd like, e.g. "Outside code, I enjoy ___" -->
 
-📍 Based in **Joypurhat, Bangladesh** &nbsp;·&nbsp; 💬 Ask me about **React, Next.js & UI design**
 
 ---
+
 
 ## 🤝 Connect With Me
 
@@ -64,11 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatematz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatematz&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=fatematz&theme=radical&hide_border=true" />
 </p>
 
@@ -93,7 +88,6 @@
 </p>
 
 ---
-
 
 <br>
 
