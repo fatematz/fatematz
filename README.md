@@ -3,7 +3,7 @@
 
 
 
-# Hi 👋, I'm Fatema Tuj Zohura
+# Hi , I'm Fatema Tuj Zohura
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF69B4&size=25&center=true&vCenter=true&width=650&lines=Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Clean+%26+Responsive+Interfaces;Turning+Ideas+Into+Beautiful+UI" alt="Typing SVG" />
@@ -11,20 +11,27 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🔭 **What I do** — I'm a **Front-End Developer** who builds clean, responsive, user-friendly web interfaces with **React**, **Next.js**, and **Tailwind CSS**. I also build full-stack apps with the **MERN stack** (Node.js, Express, MongoDB).
+ **What I do** — I'm a **Front-End Developer** who builds clean, responsive, user-friendly web interfaces with **React**, **Next.js**, and **Tailwind CSS**. I also build full-stack apps with the **MERN stack** (Node.js, Express, MongoDB).
 
-🎯 **Where I'm headed** — Growing into a well-rounded **full-stack (MERN) developer** and working on real-world products with a team where I can keep learning and shipping quality UI.
+ **Where I'm headed** — Growing into a well-rounded **full-stack (MERN) developer** and working on real-world products with a team where I can keep learning and shipping quality UI.
 
-💡 **What I enjoy** — Turning Figma designs into pixel-perfect interfaces, exploring new front-end tools, and solving real problems through clean code.
+ **What I enjoy** — Turning Figma designs into pixel-perfect interfaces, exploring new front-end tools, and solving real problems through clean code.
 <!-- 👉 Add a personal interest/hobby here if you'd like, e.g. "Outside code, I enjoy ___" -->
 
 
 ---
 
+## Current Activities
+-  I am currently exploring **Next.js** to build more robust web applications.
+-  I am working on a full-stack project named **"Thikana"**.
+-  I'm developing both the frontend and backend of "Thikana" myself, ensuring a seamless end-to-end experience.
 
-## 🤝 Connect With Me
+---
+
+
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fatema-tuj-zohura07" target="_blank">
@@ -33,14 +40,11 @@
   <a href="mailto:fatematz486@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/fatema.tuj.zohura.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Front-End**
 
@@ -64,15 +68,27 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatematz&color=ff69b4&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fatematz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fatematz&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=fatematz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatematz&custom_title=Contribution%20Graph&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="95%" />
@@ -80,7 +96,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
@@ -94,8 +110,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatematz&color=ff69b4&style=flat-square&label=Profile+Views" />
-</p>
 
-<p align="center"><i>✨ I enjoy turning ideas into beautiful web interfaces.</i></p>
+
+<p align="center"><i> I enjoy turning ideas into beautiful web interfaces.</i></p>
