@@ -1,4 +1,7 @@
-<img width="1584" height="396" alt="Fatema Tuj Zohura — Front-End Developer" src="https://github.com/user-attachments/assets/098583c3-f762-4369-a6d2-e7536af2acbe" />
+<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner" src="https://github.com/user-attachments/assets/b1fa3420-f906-4a6b-a4b2-63c6712f31ac" />
+
+
+
 
 # Hi 👋, I'm Fatema Tuj Zohura
 
