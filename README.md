@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner" src="https://github.com/user-attachments/assets/b1fa3420-f906-4a6b-a4b2-63c6712f31ac" />
+<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner (1)" src="https://github.com/user-attachments/assets/eab8b6e8-8f04-4cbb-9f15-12cb2e77ed7d" />
 
 
 
