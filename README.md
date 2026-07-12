@@ -1,24 +1,26 @@
-<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner (1)" src="https://github.com/user-attachments/assets/eab8b6e8-8f04-4cbb-9f15-12cb2e77ed7d" />
-
+<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner (2)" src="https://github.com/user-attachments/assets/83523793-673f-492d-a2b7-bd607e81a353" />
 
 
 
 # Hi , I'm Fatema Tuj Zohura
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF69B4&size=25&center=true&vCenter=true&width=650&lines=Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Clean+%26+Responsive+Interfaces;Turning+Ideas+Into+Beautiful+UI" alt="Typing SVG" />
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF69B4&size=25&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Functional+UI" alt="Typing SVG" />
 </p>
 
 ---
 
 ##  About Me
 
- **What I do** — I'm a **Front-End Developer** who builds clean, responsive, user-friendly web interfaces with **React**, **Next.js**, and **Tailwind CSS**. I also build full-stack apps with the **MERN stack** (Node.js, Express, MongoDB).
+**What I do** — I'm a MERN Stack Developer who builds clean, responsive, user-friendly web interfaces with React, Next.js, and Tailwind CSS, while crafting solid full-stack applications with Node.js, Express, and MongoDB.
 
- **Where I'm headed** — Growing into a well-rounded **full-stack (MERN) developer** and working on real-world products with a team where I can keep learning and shipping quality UI.
+**Where I'm headed** — Deepening my skills as a full-stack developer and working on real-world products with a team where I can keep learning, collaborating, and shipping quality applications.
 
- **What I enjoy** — Turning Figma designs into pixel-perfect interfaces, exploring new front-end tools, and solving real problems through clean code.
-<!-- 👉 Add a personal interest/hobby here if you'd like, e.g. "Outside code, I enjoy ___" -->
+**What I enjoy** — Turning Figma designs into pixel-perfect interfaces, exploring new full-stack tools, and solving real problems through clean, maintainable code.
 
 
 ---
